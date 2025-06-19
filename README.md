@@ -1,3 +1,5 @@
+![banner](./memory.gif)
+
 # 💫 What is: MemoryAccessBase
 It's a simple, clean way to read and write process memory in C++. It can be useful for many projects
 
